@@ -94,11 +94,7 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 👨‍💻 Author
 
-Yash Raj
-
-[💼 LinkedIn](https://www.linkedin.com/in/RajYash0/)
-[🌐 Portfolio](https://rajyash0.github.io/portfolio-try/)
-[🐙 GitHub](https://github.com/RajYash0)
+Ayush kumar shriwastava
 
 ⭐ Support
 
